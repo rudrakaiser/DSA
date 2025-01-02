@@ -1,4 +1,4 @@
-## **Sorting Algorithms**
+## **Sorting**
 
 - #### **[Bubble Sort](https://github.com/rudra-404/DSA/blob/main/Sorting/Bubble%20Sort/)**
 
@@ -12,7 +12,7 @@
 
 
 
-## **Searching Algorithms**
+## **Searching**
 
 - #### **[Linear Search](https://github.com/rudra-404/DSA/blob/main/Searching/Linear%20Search/)**
 
