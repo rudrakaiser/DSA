@@ -1,9 +1,7 @@
 ### **Sorting Algorithms in C++**   
 ---
 - **Bubble Sort Algorithm**  
----
 - **Selection Sort Algorithm**  
----
 <!-- - **Insertion Sort Algorithm**  
 - **Merge Sort Algorithm**  
 - **Quick Sort Algorithm**  
