@@ -4,22 +4,22 @@
 
 - ### **[Selection Sort](https://github.com/rudra-404/DSA/blob/main/Sorting/Selection%20Sort/)**
 
+- ### **[Insertion Sort](https://github.com/rudra-404/DSA/blob/main/Sorting/Insertion%20Sort/)**
+
 <!--
 
-- ### **[Insertion Sort Algorithm]()**
+- ### **[Merge Sort]()**
 
-- ### **[Merge Sort Algorithm]()**
+- ### **[Quick Sort]()**
 
-- ### **[Quick Sort Algorithm]()**
+- ### **[Heap Sort]()**
 
-- ### **[Heap Sort Algorithm]()**
+- ### **[Counting Sort]()**
 
-- ### **[Counting Sort Algorithm]()**
+- ### **[Radix Sort]()**
 
-- ### **[Radix Sort Algorithm]()**
+- ### **[Bucket Sort]()**
 
-- ### **[Bucket Sort Algorithm]()**
-
-- ### **[Shell Sort Algorithm]()**
+- ### **[Shell Sort]()**
 
 -->
