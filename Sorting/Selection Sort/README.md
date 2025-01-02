@@ -36,7 +36,7 @@ if (minIndex != i) {
 
 ---
 
-#### **Function `printArray()` :**
+### **Function `printArray()` :**
 ```cpp
 void printArray(const vector<int>& arr) {
     for (int num : arr) {
@@ -49,7 +49,7 @@ void printArray(const vector<int>& arr) {
 
 ---
 
-#### **Main Function `main()` :**
+### **Main Function `main()` :**
 
 ```cpp
 int main() {
@@ -88,13 +88,13 @@ int main() {
 
 ---
 
-#### INPUT :
+### INPUT :
 ```
 Original array: 
 64 25 12 22 11
 ```
 
-#### ধাপে ধাপে কাজের প্রক্রিয়া:
+#### ধাপে ধাপে কাজের প্রক্রিয়া :
 1. **Phase 01 :**
    - `11` হলো সবচেয়ে ছোট উপাদান ।
    - `11` এবং `64` বিনিময় করা হয় ।
@@ -115,7 +115,7 @@ Original array:
 
 **Note :** এখানে array এর `size` ছিলো `5` আর `phase` ছিলো `4` টা । অর্থাৎ `phase = size - 1` ।
 
-#### OUTPUT :
+### OUTPUT :
 ```
 Sorted array: 
 11 12 22 25 64
@@ -123,11 +123,11 @@ Sorted array:
 
 ---
 
-### **Space Time Complexity :**
+### **Space Time Complexity**
 
-- **Time Complexity :**  
+#### **Time Complexity :**  
   - **Best**, **Average** & **Worst** case এর ক্ষেত্রে : **O(n<sup>2</sup>)**  
     কারণ Selection Sort-এ দুটি নেস্টেড লুপ ব্যবহার করা হয় । বাইরের লুপ n বার চলে এবং প্রতিবার ভেতরের লুপ চলার ফলে n−1, n−2, n-3 ... পর্যন্ত উপাদানগুলোর মধ্যে তুলনা করা হয় । তাই এটি Time Complexity তে n<sup>2</sup> সময় নেয় ।
   
-- **Space Complexity :**  
+#### **Space Complexity :**  
   - O(1) কারণ Selection Sort একটি ইনপ্লেস (In-place) অ্যালগরিদম, যার ফলে এটি ইনপুট অ্যারেতেই কাজ করে এবং কোনও অতিরিক্ত ডেটা স্ট্রাকচার (যেমন, আরেকটি অ্যারে বা লিস্ট) ব্যবহার করে না ।
