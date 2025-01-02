@@ -1,6 +1,6 @@
 ## **[Code](https://github.com/rudra-404/DSA/blob/main/Searching/Linear%20Search/linear_search.cpp) Explanation**
 
-### **Function `linearSearch()` :**
+### **`linearSearch()` ফাংশন :**
 ```cpp
 int linearSearch(const vector<int>& arr, int key) {
     for (int i = 0; i < arr.size(); i++) {
@@ -18,7 +18,7 @@ int linearSearch(const vector<int>& arr, int key) {
 
 ---
 
-### **Main Function `main()` :**
+### **`main()` ফাংশন :**
 ```cpp
 int main() {
     vector<int> arr = {10, 25, 30, 45, 50};

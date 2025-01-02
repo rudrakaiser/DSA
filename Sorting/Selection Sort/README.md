@@ -1,6 +1,6 @@
 # **[Code](https://github.com/rudra-404/DSA/blob/main/Sorting/Selection%20Sort/selection_sort.cpp) Explanation :**
 
-### **Function `selectionSort()` :**
+### **`selectionSort()` ফাংশন :**
 ```cpp
 void selectionSort(vector<int>& arr) {
     int n = arr.size(); // অ্যারের size বের করা
@@ -36,7 +36,7 @@ if (minIndex != i) {
 
 ---
 
-### **Function `printArray()` :**
+### **`printArray()` ফাংশন :**
 ```cpp
 void printArray(const vector<int>& arr) {
     for (int num : arr) {
@@ -49,7 +49,7 @@ void printArray(const vector<int>& arr) {
 
 ---
 
-### **Main Function `main()` :**
+### **`main()` ফাংশন :**
 
 ```cpp
 int main() {

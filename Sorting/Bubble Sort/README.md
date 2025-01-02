@@ -1,6 +1,6 @@
 # [Code](https://github.com/rudra-404/DSA/blob/main/Sorting/Bubble%20Sort/bubble_sort.cpp) Explanation :
 
-### **Function - `bubbleSort()` :**
+### **`bubbleSort()` ফাংশন :**
 ```cpp
 void bubbleSort(vector<int>& arr) {
     int n = arr.size(); // অ্যারের size বের করা
@@ -41,7 +41,7 @@ if (!swapped) {
 
 ---
 
-### **Function `printArray()` :**
+### **`printArray()` ফাংশন :**
 ```cpp
 void printArray(const vector<int>& arr) {
     for (int num : arr) {
@@ -54,7 +54,7 @@ void printArray(const vector<int>& arr) {
 
 ---
 
-### **Main Function `main()` :**
+### **`main()` ফাংশন :**
 ```cpp
 int main() {
     vector<int> arr = {64, 34, 25, 12, 22, 11, 90};
