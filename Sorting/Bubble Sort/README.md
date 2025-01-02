@@ -3,7 +3,7 @@
 ### **Function - `bubbleSort()` :**
 ```cpp
 void bubbleSort(vector<int>& arr) {
-    int n = arr.size(); // অ্যারের দৈর্ঘ্য বের করা
+    int n = arr.size(); // অ্যারের size বের করা
     bool swapped; // একটি ফ্ল্যাগ যা ট্র্যাক করবে কোনও swap হয়েছে কিনা
 ```
 - **`n = arr.size()`** : এখানে `n` হল অ্যারের দৈর্ঘ্য ।
@@ -12,7 +12,7 @@ void bubbleSort(vector<int>& arr) {
 #### **Outer Loop : প্রতিটি Phase এর জন্য**
 ```cpp
 for (int i = 0; i < n - 1; i++) {
-    swapped = false; // প্রতিটি Phase এর শুরুতে ফ্ল্যাগ রিসেট করা
+    swapped = false; // প্রতিটি Phase এর শুরুতে ফ্ল্যাগ reset করা
 ```
 - এখানে **`n - 1`** পর্যন্ত loop চলবে কারণ শেষ উপাদান সঠিক স্থানে থাকলে সেটি আর check করার দরকার নেই ।
 - প্রতিবার **`swapped = false`** করা হয় । যদি কোনো swapping না হয়, তাহলে লুপ বন্ধ হয়ে যাবে কারণ, তখন Array টি Sorted আছে বুঝে নেওয়া হবে ।
