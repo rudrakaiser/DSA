@@ -88,13 +88,13 @@ int main() {
 
 ---
 
-### INPUT :
+### INPUT
 ```
 Original array: 
 64 25 12 22 11
 ```
 
-#### ধাপে ধাপে কাজের প্রক্রিয়া :
+#### Step-by-Step Execution :
 1. **Phase 01 :**
    - `11` হলো সবচেয়ে ছোট উপাদান ।
    - `11` এবং `64` বিনিময় করা হয় ।
@@ -115,7 +115,7 @@ Original array:
 
 **Note :** এখানে array এর `size` ছিলো `5` আর `phase` ছিলো `4` টা । অর্থাৎ `phase = size - 1` ।
 
-### OUTPUT :
+### OUTPUT
 ```
 Sorted array: 
 11 12 22 25 64

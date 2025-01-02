@@ -1,6 +1,6 @@
-## [Code](https://github.com/rudra-404/DSA/blob/main/Sorting/Bubble%20Sort/bubble_sort.cpp) Explanation :
+# [Code](https://github.com/rudra-404/DSA/blob/main/Sorting/Bubble%20Sort/bubble_sort.cpp) Explanation :
 
-#### **Function - `bubbleSort()` :**
+### **Function - `bubbleSort()` :**
 ```cpp
 void bubbleSort(vector<int>& arr) {
     int n = arr.size(); // অ্যারের দৈর্ঘ্য বের করা
@@ -9,8 +9,6 @@ void bubbleSort(vector<int>& arr) {
 - **`n = arr.size()`** : এখানে `n` হল অ্যারের দৈর্ঘ্য ।
 - **`swapped`** : একটি **Flag Variable**, যা প্রতিটি Phase এর সময় চেক করবে কোনো swapping হয়েছে কিনা ।
 
----
-
 #### **Outer Loop : প্রতিটি Phase এর জন্য**
 ```cpp
 for (int i = 0; i < n - 1; i++) {
@@ -18,8 +16,6 @@ for (int i = 0; i < n - 1; i++) {
 ```
 - এখানে **`n - 1`** পর্যন্ত loop চলবে কারণ শেষ উপাদান সঠিক স্থানে থাকলে সেটি আর check করার দরকার নেই ।
 - প্রতিবার **`swapped = false`** করা হয় । যদি কোনো swapping না হয়, তাহলে লুপ বন্ধ হয়ে যাবে কারণ, তখন Array টি Sorted আছে বুঝে নেওয়া হবে ।
-
----
 
 #### **Inner Loop : Element গুলা পাশাপাশি compare & swap করা**
 ```cpp
@@ -35,8 +31,6 @@ for (int j = 0; j < n - i - 1; j++) {
 - **`swap(arr[j], arr[j + 1])`** : এখানে C++ এর বিল্ট-ইন `swap()` ফাংশন ব্যবহার করা হয়েছে উপাদানগুলো swap করতে ।
 - **`swapped = true;`** : বোঝানো যে swapping হয়েছে ।
 
----
-
 #### **Early Exit For Sorted Array :**
 ```cpp
 if (!swapped) {
@@ -47,7 +41,7 @@ if (!swapped) {
 
 ---
 
-#### **Function `printArray()` :**
+### **Function `printArray()` :**
 ```cpp
 void printArray(const vector<int>& arr) {
     for (int num : arr) {
@@ -60,7 +54,7 @@ void printArray(const vector<int>& arr) {
 
 ---
 
-#### **Main Function `main()` :**
+### **Main Function `main()` :**
 ```cpp
 int main() {
     vector<int> arr = {64, 34, 25, 12, 22, 11, 90};
@@ -81,13 +75,13 @@ int main() {
 
 ---
 
-#### INPUT :
+### INPUT
 ```
 Original array: 
 64 34 25 12 22 11 90
 ```
 
-#### OUTPUT :
+#### OUTPUT
 ```
 Sorted array: 
 11 12 22 25 34 64 90
@@ -95,10 +89,12 @@ Sorted array:
 
 ---
 
-### Code Features :
+### Code Features
 
-1. **Optimized :** অপ্রয়োজনীয় phase এড়ানোর জন্য `swapped` flag ব্যবহার করা হয়েছে ।
-2. **Time Complexity :**
+#### **Optimized :**
+- অপ্রয়োজনীয় phase এড়ানোর জন্য `swapped` flag ব্যবহার করা হয়েছে ।
+#### **Time Complexity :**
    - **Best Case :** O(n), যদি Array আগে থেকেই sorted হয় ।
    - **Worst Case :**  O(n<sup>2</sup>) , যদি অ্যারে পুরোপুরি উল্টো থাকে ।
-3. **Space Complexity :** O(1), কারণ এটি in-place কাজ করে (**in-place** : Array কে sort করার জন্যে অন্য আরেকটি Array নেওয়ার প্রয়োজন হয় না, input array এর মধ্যেই element গুলো swap করিয়ে array টি sort করা হয় । আর swap করার ক্ষেত্রে `temp` নামে একটি variable ব্যাবহার করা হয়ে থাকে `swap()` এ, যা খুবই অল্প মেমোরি নেয় ) ।
+#### **Space Complexity :**
+- O(1), কারণ এটি in-place কাজ করে (**in-place** : Array কে sort করার জন্যে অন্য আরেকটি Array নেওয়ার প্রয়োজন হয় না, input array এর মধ্যেই element গুলো swap করিয়ে array টি sort করা হয় । আর swap করার ক্ষেত্রে `temp` নামে একটি variable ব্যাবহার করা হয়ে থাকে `swap()` এ, যা খুবই অল্প মেমোরি নেয় ) ।
