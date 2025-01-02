@@ -1,5 +1,5 @@
 # **Sorting Algorithms in C++**   
-- ### **[Bubble Sort Algorithm](https://github.com/rudra-404/DSA/blob/main/Sorting/Bubble%20Sort/bubble_sort.cpp)**  
+- ### **[Bubble Sort Algorithm]({:target="_blank"}https://github.com/rudra-404/DSA/blob/main/Sorting/Bubble%20Sort/)**  
 - ### **Selection Sort Algorithm**  
 <!-- - ### **Insertion Sort Algorithm**  
 - ### **Merge Sort Algorithm**  
