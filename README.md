@@ -1,21 +1,30 @@
-### **Sorting**  
-- Bubble Sort  
-- Selection Sort  
-<!-- - Insertion Sort  
-- Merge Sort  
-- Quick Sort  
-- Heap Sort  
-- Counting Sort  
-- Radix Sort  
-- Bucket Sort  
-- Shell Sort   -->
+# **Sorting Algorithms in C++**
 
-### **Searching**  
-- Linear Search  
-- Binary Search  
-<!-- - Interpolation Search  
-- Exponential Search  
-- Ternary Search   -->
+- ### **[Bubble Sort](https://github.com/rudra-404/DSA/blob/main/Sorting/Bubble%20Sort/)**
+
+- ### **[Selection Sort](https://github.com/rudra-404/DSA/blob/main/Sorting/Selection%20Sort/)**
+
+
+
+
+
+
+
+
+
+# **Searching Algorithms in C++**
+
+- ### **[Linear Search](https://github.com/rudra-404/DSA/blob/main/Searching/Linear%20Search/)**
+
+- ### **[Binary Search](https://github.com/rudra-404/DSA/blob/main/Searching/Binary%20Search/)**
+
+
+
+
+
+
+
+
 
 <!-- ### **Recursion and Backtracking**  
 - Factorial using Recursion  
