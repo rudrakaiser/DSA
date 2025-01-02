@@ -1,6 +1,6 @@
-### Code Explanation :
+### [Code](https://github.com/rudra-404/DSA/blob/main/Sorting/Bubble%20Sort/bubble_sort.cpp) Explanation :
 
-এই কোডটি **Bubble Sort** অ্যালগরিদমের একটি Optimized Version । নিচে ধাপে ধাপে পুরো কোড ব্যাখ্যা করা হয়েছে :
+এই কোডটি **Bubble Sort** অ্যালগরিদমের একটি Optimized Version এবং নিচে step by step সম্পূর্ণ code ব্যাখ্যা করা হয়েছে :
 
 ---
 
