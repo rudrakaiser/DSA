@@ -1,6 +1,6 @@
-## **[Code](https://github.com/rudra-404/DSA/blob/main/Sorting/Selection%20Sort/selection_sort.cpp) Explanation :**
+# **[Code](https://github.com/rudra-404/DSA/blob/main/Sorting/Selection%20Sort/selection_sort.cpp) Explanation :**
 
-#### **Function `selectionSort()` :**
+## **Function `selectionSort()` :**
 ```cpp
 void selectionSort(vector<int>& arr) {
     int n = arr.size(); // অ্যারের size বের করা
