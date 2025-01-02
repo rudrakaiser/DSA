@@ -4,6 +4,8 @@
 
 - #### **[Selection Sort](https://github.com/rudra-404/DSA/blob/main/Sorting/Selection%20Sort/)**
 
+- #### **[Insertion Sort](https://github.com/rudra-404/DSA/blob/main/Sorting/Insertion%20Sort/)**
+
 
 
 
