@@ -49,7 +49,7 @@ void printArray(const vector<int>& arr) {
 
 ---
 
-#### **Function `main()` :**
+#### **Main Function `main()` :**
 
 ```cpp
 int main() {
