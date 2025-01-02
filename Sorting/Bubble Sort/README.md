@@ -1,8 +1,4 @@
-### [Code](https://github.com/rudra-404/DSA/blob/main/Sorting/Bubble%20Sort/bubble_sort.cpp) Explanation :
-
-এই কোডটি **Bubble Sort** অ্যালগরিদমের একটি Optimized Version এবং নিচে step by step সম্পূর্ণ code ব্যাখ্যা করা হয়েছে :
-
----
+## [Code](https://github.com/rudra-404/DSA/blob/main/Sorting/Bubble%20Sort/bubble_sort.cpp) Explanation :
 
 #### **Function - `bubbleSort()` :**
 ```cpp
@@ -104,5 +100,5 @@ Sorted array:
 1. **Optimized :** অপ্রয়োজনীয় phase এড়ানোর জন্য `swapped` flag ব্যবহার করা হয়েছে ।
 2. **Time Complexity :**
    - **Best Case :** O(n), যদি Array আগে থেকেই sorted হয় ।
-   - **Worst Case :**  O(n)<sup>2</sup>, যদি অ্যারে পুরোপুরি উল্টো থাকে ।
+   - **Worst Case :**  O(n<sup>2</sup>) , যদি অ্যারে পুরোপুরি উল্টো থাকে ।
 3. **Space Complexity :** O(1), কারণ এটি in-place কাজ করে (**in-place** : Array কে sort করার জন্যে অন্য আরেকটি Array নেওয়ার প্রয়োজন হয় না, input array এর মধ্যেই element গুলো swap করিয়ে array টি sort করা হয় । আর swap করার ক্ষেত্রে `temp` নামে একটি variable ব্যাবহার করা হয়ে থাকে `swap()` এ, যা খুবই অল্প মেমোরি নেয় ) ।
