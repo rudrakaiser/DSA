@@ -1,4 +1,4 @@
-## [Code]() Explanation :
+## [Code](https://github.com/rudra-404/DSA/blob/main/Prime/Prime%20Or%20Not/prime_or_not.cpp) Explanation :
 
 এই কোডে একটি **Integer Number** INPUT নিয়ে সেটি Prime Number কিনা যাচাই করা হয়েছে । নিচে ধাপে ধাপে প্রতিটি অংশের ব্যাখ্যা দেওয়া হলো :
 
