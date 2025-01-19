@@ -2,18 +2,16 @@
 using namespace std;
 
 bool PrimeChecking(int n) {
-    bool isPrime = true;
     if (n < 2 || (n > 2 && n%2 == 0)) {
-        isPrime = false;
+        return false;
     } else {
         for (int i=3; i*i <= n; i+=2) {
             if (n%i == 0) {
-                isPrime = false;
-                break;
+                return false;
             }
         }
     }
-    return isPrime;
+    return true;
 }
 
 int main() {
@@ -22,9 +20,9 @@ int main() {
     cout << "Enter an Integer Number >>> ";
     cin >> number;
     if (PrimeChecking(number)) {
-        cout << number << " is a Prime Number" << endl;
+        cout << "Prime Number" << endl;
     } else {
-        cout << number << " is NOT a Prime Number" << endl;
+        cout << "NOT a Prime Number" << endl;
     }
     return 0;
 }
