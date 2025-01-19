@@ -32,7 +32,7 @@ bool isPrime = true;
 
 #### 4. **প্রথম ধাপে ২ দ্বারা ভাগযোগ্য সংখ্যা বাদ দিয়ে দেওয়া :**
 ```cpp
-if (number > 2 && number % 2 == 0) {
+if (n < 2 || (n > 2 && n%2 == 0)) {
     isPrime = false;
 }
 ```
