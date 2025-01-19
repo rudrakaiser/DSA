@@ -1,4 +1,4 @@
-## **[Code]() Explanation :**
+## **[Code](https://github.com/rudra-404/DSA/blob/main/Prime/Twin%20Prime/twin_prime.cpp) Explanation :**
 
 **টুইন প্রাইম (Twin Primes)** হল দুটি প্রাইম সংখ্যা যা একে অপরের থেকে শুধুমাত্র ২ এর ব্যবধানে থাকে । অর্থাৎ, দুটি প্রাইম সংখ্যা $p$ এবং $q$ যদি $ |p - q| = 2 $ হয়, তাহলে $p$ এবং $q$ টুইন প্রাইম বলে গণ্য হবে । যেমন :
 - $5$ এবং $7$ হলো টুইন প্রাইম,
