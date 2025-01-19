@@ -1,26 +1,10 @@
-## **Sorting**
-
-- #### **[Bubble Sort](https://github.com/rudra-404/DSA/blob/main/Sorting/Bubble%20Sort/)**
-
-- #### **[Selection Sort](https://github.com/rudra-404/DSA/blob/main/Sorting/Selection%20Sort/)**
-
-- #### **[Insertion Sort](https://github.com/rudra-404/DSA/blob/main/Sorting/Insertion%20Sort/)**
+- ### **[Sorting](https://github.com/rudra-404/DSA/blob/main/Sorting/)**
 
 
+- ### **[Searching](https://github.com/rudra-404/DSA/blob/main/Searching/)**
 
 
-
-
-
-
-
-## **Searching**
-
-- #### **[Linear Search](https://github.com/rudra-404/DSA/blob/main/Searching/Linear%20Search/)**
-
-- #### **[Binary Search](https://github.com/rudra-404/DSA/blob/main/Searching/Binary%20Search/)**
-
-
+- ### **[Prime](https://github.com/rudra-404/DSA/blob/main/Prime/)**
 
 
 
