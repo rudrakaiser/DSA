@@ -72,8 +72,8 @@ void print_primes(const vector<int>& primes) {
 #### **`main` ফাংশন**
 ```cpp
 int main() {
-    cout << "---------| Sieve Of Eratosthenes |---------" << endl;
-    cout << "This program finds all prime numbers between 1 and a number (N) you specify." << endl;
+    cout << "-------------| Sieve Of Eratosthenes |--------------" << endl << endl;
+    cout << "This program finds all prime numbers between 1 and N" << endl;
     int n;
     cout << "Enter the range (N) >>> ";
     cin >> n;
@@ -126,8 +126,9 @@ Enter the range (N) >>> 20
 
 #### Output
 ```
----------| Sieve Of Eratosthenes |---------
-This program finds all prime numbers between 1 and a number (N) you specify.
+-------------| Sieve Of Eratosthenes |--------------
+
+This program finds all prime numbers between 1 and N
 Enter the range (N) >>> 20
 The prime numbers between 1 and 20 are :
 02 03 05 07 11 13 17 19 

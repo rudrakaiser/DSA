@@ -30,8 +30,8 @@ void print_primes(const vector<int>& primes) {
 }
 
 int main() {
-    cout << "---------| Sieve Of Eratosthenes |---------" << endl;
-    cout << "This program finds all prime numbers between 1 and a number (N) you specify." << endl;
+    cout << "-------------| Sieve Of Eratosthenes |--------------" << endl << endl;
+    cout << "This program finds all prime numbers between 1 and N" << endl;
     int n;
     cout << "Enter the range (N) >>> ";
     cin >> n;
