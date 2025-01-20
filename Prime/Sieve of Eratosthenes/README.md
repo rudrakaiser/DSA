@@ -1,4 +1,4 @@
-## [Code]() Explanation :
+## [Code](https://github.com/rudra-404/DSA/blob/main/Prime/Sieve%20of%20Eratosthenes/sieve_of_eratosthenes.cpp) Explanation :
 
 এই প্রোগ্রামটি **Sieve of Eratosthenes** অ্যালগরিদম ব্যবহার করে $1$ থেকে $n$-এর মধ্যে যত প্রাইম নাম্বার আছে, সেগুলো খুঁজে বের করে । নিচে, কোডের প্রতিটি অংশ ধাপে ধাপে ব্যাখ্যা করা হয়েছে ।
 
@@ -137,9 +137,9 @@ The prime numbers between 1 and 20 are :
 
 ### **Complexity**
 
-- **Time Complexity :** $ O(n \log(\log(n))) $
+- **Time Complexity :** ${O(n \log(\log(n)))}$
 
-- **Space Complexity :** $ O(n) $
+- **Space Complexity :** ${O(n)}$
 
 ---
 
