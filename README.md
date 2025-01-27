@@ -7,6 +7,9 @@
 - ### **[Prime](https://github.com/rudra-404/DSA/blob/main/Prime/)**
 
 
+- ### **[Stack & Queue](https://github.com/rudra-404/DSA/blob/main/Stack%20&%20Queue/)**
+
+
 
 
 
