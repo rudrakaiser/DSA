@@ -1,4 +1,4 @@
-## [Code]() Explanation :
+## [Code](https://github.com/rudra-404/DSA/blob/main/Stack%20%26%20Queue/Stack/stack.cpp) Explanation :
 
 এটি একটি সাধারণ **Stack (স্ট্যাক)** ডেটা স্ট্রাকচারের ধারণা ও কার্যপ্রণালী প্রদর্শন করে । এখানে, **PUSH**, **POP** এবং **SHOW** নামক ফাংশনগুলোর সাহায্যে স্ট্যাকের উপর বিভিন্ন অপারেশন সম্পাদন করা হয়েছে ।
 
