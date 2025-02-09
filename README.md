@@ -10,7 +10,7 @@
 - ### **[Stack & Queue](https://github.com/rudra-404/DSA/blob/main/Stack%20&%20Queue/)**
 
 
-- ### **[Stack & Queue](https://github.com/rudra-404/DSA/blob/main/String/)**
+- ### **[String](https://github.com/rudra-404/DSA/blob/main/String/)**
 
 
 
