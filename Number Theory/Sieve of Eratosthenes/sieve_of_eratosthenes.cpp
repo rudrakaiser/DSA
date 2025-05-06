@@ -21,7 +21,7 @@ void sieve() {
     }
     for (int i = 2; i <= MAX; i++) {
         if (arr[i]) {
-            primes.push_back(i); 
+            primes.push_back(i);
         }
     }
 }
