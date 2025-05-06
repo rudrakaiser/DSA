@@ -1,3 +1,7 @@
+/*
+    Checking a number is a PRIME or NOT
+*/
+
 #include<bits/stdc++.h>
 using namespace std;
 
