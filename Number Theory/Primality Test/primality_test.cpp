@@ -26,7 +26,7 @@ int main () {
         int num;
         cout << "Enter A Number >>> ";
         cin >> num;
-        if (primality_test(num)) {
+        if ( primality_test(num) ) {
             cout << "PRIME NUMBER" << endl;
         } else {
             cout << "NOT PRIME NUMBER" << endl;
