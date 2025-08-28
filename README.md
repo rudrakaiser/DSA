@@ -98,6 +98,6 @@ This repository is primarily for my learning journey, but contributions, suggest
 **Rudra Kaiser**  
 - 🎓 CSE Student | Premier University, Chittagong  
 - 💻 Competitive Programmer | Aspiring Software Engineer  
-- 🌐 [GitHub Profile](https://github.com/rudrakaiser)  
+- 🌐 [LinkedIn Profile](https://github.com/rudrakaiser)  
 
 ---
