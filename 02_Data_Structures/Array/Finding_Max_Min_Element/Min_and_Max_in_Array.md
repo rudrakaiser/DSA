@@ -46,8 +46,6 @@ Then loop starts from index 1 → check every element:
 
 Finally, return both values together as `{min, max}`.
 
----
-
 ## Example
 
 Example:
@@ -62,8 +60,6 @@ Example:
 
 Final : `{1, 10000}` → same as example output.
 
----
-
 ## Complexity Analysis
 
 * **Time Complexity** → `O(n)`
@@ -72,5 +68,3 @@ Final : `{1, 10000}` → same as example output.
 * **Space Complexity** → `O(1)`
 
   * Using only two variables (`min`, `max`), no extra memory depending on array size.
-
----

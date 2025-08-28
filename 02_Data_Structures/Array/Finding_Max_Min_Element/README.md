@@ -1,10 +1,13 @@
-## Finding Maximum Element in an Array
+## Finding Maximum and Minimum Element in Array
 
 ### Logic
 
 ```cpp
-int position = 0;
-int maximum = arr[0];
+int maximum, minimum;
+maximum = minimum = arr[0];
+
+int maxPos, minPos;
+maxPos = minPos = 0;
 
 for (int i = 1; i < n; i++) {
     if (arr[i] > maximum) {
@@ -17,6 +20,8 @@ for (int i = 1; i < n; i++) {
     }
 }
 ```
+
+### [See Full Code]()
 
 ### Output
 
