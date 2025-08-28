@@ -7,7 +7,7 @@ int main () {
     cout << "Array Size : ";
     cin >> n;
 
-    // taking all the elements of array in one line from the user
+    // taking all the elements of array in single line from the user
     int arr[n];
     cout << "Enter Array Elements : ";
     for (int i = 0; i < n; i++) {
