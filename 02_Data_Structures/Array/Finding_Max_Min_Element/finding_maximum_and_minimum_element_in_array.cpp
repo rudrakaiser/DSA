@@ -30,7 +30,7 @@ int main () {
     cout << "Maximum Element : " << maximum << endl;
     cout << "Max Element Position : " << maxPos << endl;
     cout << "Minimum Element : " << maximum << endl;
-    cout << "Mim Element Position : " << minPos << endl;
+    cout << "Min Element Position : " << minPos << endl;
 
     return 0;
 }
