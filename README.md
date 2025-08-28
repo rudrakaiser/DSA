@@ -95,9 +95,9 @@ This repository is primarily for my learning journey, but contributions, suggest
 --- -->
 
 ## 📌 Author
-**Rudra Kaiser**  
-- 🎓 CSE Student | Premier University, Chittagong  
-- 💻 Competitive Programmer | Aspiring Software Engineer  
-- 🌐 [LinkedIn Profile](https://github.com/rudrakaiser)  
+- ### **Rudra Kaiser**  
+    - 🎓 CSE Student | Premier University, Chittagong  
+    - 💻 Competitive Programmer | Aspiring Software Engineer  
+    - 🌐 [LinkedIn Profile](https://www.linkedin.com/in/rudrakaiser/)  
 
 ---
