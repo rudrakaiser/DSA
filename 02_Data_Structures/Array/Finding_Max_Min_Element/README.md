@@ -32,7 +32,7 @@ Min Element Position : 4
 ### Problem
 
 - [Min and Max in Array](https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1)
-    - [Click Here to get the Solution]()
+    - [Click Here to get the Solution](https://github.com/rudrakaiser/DSA/blob/main/02_Data_Structures/Array/Finding_Max_Min_Element/Min_and_Max_in_Array.md)
 
 ### Learning Resource
 
