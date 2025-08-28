@@ -21,7 +21,7 @@ for (int i = 1; i < n; i++) {
 }
 ```
 
-### [See Full Code]()
+### [See Full Code](https://github.com/rudrakaiser/DSA/blob/main/02_Data_Structures/Array/Finding_Max_Min_Element/finding_maximum_and_minimum_element_in_array.cpp)
 
 ### Output
 
