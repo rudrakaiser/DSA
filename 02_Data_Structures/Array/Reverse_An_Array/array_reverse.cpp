@@ -27,7 +27,6 @@ int main () {
         ptr_2--;
     }
 
-
     // Pringting the reversed array
     cout << "Reversed : [ ";
     for (int i = 0; i < n; i++) {
