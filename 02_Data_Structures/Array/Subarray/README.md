@@ -79,8 +79,8 @@ arr = [1, 2, 3, 4, 5]
 5
 ```
 
-- [SOLUTION CODE]()
-- [LOGIC]()
+- [SOLUTION CODE](https://github.com/rudrakaiser/DSA/blob/main/02_Data_Structures/Array/Subarray/printing_subarray.cpp)
+- [LOGIC](https://github.com/rudrakaiser/DSA/blob/main/02_Data_Structures/Array/Subarray/Printing_Subarray.md)
 
 ---
 
@@ -112,5 +112,5 @@ Max Subarray Sum: 6
 **Explanation:**
 The subarray `[4, -1, 2, 1]` has the maximum sum = `6`.
 
-- [SOLUTION CODE]()
-- [LOGIC]()
+- [SOLUTION CODE](https://github.com/rudrakaiser/DSA/blob/main/02_Data_Structures/Array/Subarray/maximum_subarray_sum.cpp)
+- [LOGIC](https://github.com/rudrakaiser/DSA/blob/main/02_Data_Structures/Array/Subarray/Maximum_Subarray_Sum.md)
