@@ -1,4 +1,4 @@
-# Simple Linked List using ARRAY in C/C++
+# Simple Linked List using ARRAYs in C++
 
 ## Overview
 
