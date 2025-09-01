@@ -86,5 +86,5 @@ Start Link  : 3
 
 ---
 
-### [Code / Solution Of The Problem]()
-### [Explanation Of The Code / Logic]()
+### [Code / Solution Of The Problem](https://github.com/rudrakaiser/DSA/blob/main/02_Data_Structures/LinkedList/Making_Linked_List/a_simple_linked_list.cpp)
+### [Explanation Of The Code / Logic](https://github.com/rudrakaiser/DSA/blob/main/02_Data_Structures/LinkedList/Making_Linked_List/logical_explanation.md)
