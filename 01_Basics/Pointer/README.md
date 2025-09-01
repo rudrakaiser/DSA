@@ -53,7 +53,7 @@ Value stored at p: 10
    cout << *p;   // gives the value at that memory location
    ```
 
-## Pointer & Array (My Practice) Program List
+## Pointer (My Practice) Program List
 
 - ### [Print Variable Address](https://github.com/rudrakaiser/DSA/blob/main/01_Basics/Pointer/Programs/a_-_Print_variable_address.cpp)
 - ### [Address and Dereference](https://github.com/rudrakaiser/DSA/blob/main/01_Basics/Pointer/Programs/b_-_Address_and_dereference.cpp)
