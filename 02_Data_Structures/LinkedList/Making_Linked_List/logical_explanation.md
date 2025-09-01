@@ -63,24 +63,27 @@ Link        : 4 -1 0 2 1
 Start Link  : 3
 ```
 
-**Input:**
+**With Index → The List is:**
 
 ```
-Data        : 5   8   3   6   4
-Link        : 4  -1   0   2   1
-Start Link  : 3
+------------------------------------
+| Index       : 0   1   2   3   4  |
+------------------------------------
+| Data        : 5   8   3   6   4  |
+------------------------------------
+| Link        : 4  -1   0   2   1  |
+------------------------------------
 ```
 
-**Traversal:**
+**Traversal Order:**
+```
+Start → 3 → 2 → 0 → 4 → 1 → -1 (NULL)
+```
+
+**Visual Linked List:**
 
 ```
-++     ++     ++     ++     ++
-| Data=6  | --> | Data=3  | --> | Data=5  | --> | Data=4  | --> | Data=8  |
-| Link=2  |     | Link=0  |     | Link=4  |     | Link=1  |     | Link=-1 |
-++     ++     ++     ++     ++
-   Node1           Node2           Node3           Node4           Node5
-       ^                                                     
-       | Start Link = 3                                      
+Node1 (Data=6, Link=2) → Node2 (Data=3, Link=0) → Node3 (Data=5, Link=4) → Node4 (Data=4, Link=1) → Node5 (Data=8, Link=-1) → NULL
 ```
 
 **Explanation:**
