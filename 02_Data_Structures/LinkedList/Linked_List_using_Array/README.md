@@ -1,4 +1,4 @@
-# Simple Linked List in C/C++
+# Simple Linked List using ARRAY in C/C++
 
 ## Overview
 
@@ -86,5 +86,5 @@ Start Link  : 3
 
 ---
 
-### [Code / Solution Of The Problem](https://github.com/rudrakaiser/DSA/blob/main/02_Data_Structures/LinkedList/Making_Linked_List/a_simple_linked_list.cpp)
-### [Explanation Of The Code / Logic](https://github.com/rudrakaiser/DSA/blob/main/02_Data_Structures/LinkedList/Making_Linked_List/logical_explanation.md)
+### [Code / Solution Of The Problem](https://github.com/rudrakaiser/DSA/blob/main/02_Data_Structures/LinkedList/Linked_List_using_Array/Linked_List_Using_Array.cpp)
+### [Explanation Of The Code / Logic](https://github.com/rudrakaiser/DSA/blob/main/02_Data_Structures/LinkedList/Linked_List_using_Array/Logical_Explanation.md)
