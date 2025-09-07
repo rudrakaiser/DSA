@@ -2,7 +2,6 @@
 #include <vector>
 using namespace std;
 
-// Moore's Algorithm Function
 int moores_voting_algorithm (vector<int> &arr) {
     int frequency = 0, candidate = 0, n = arr.size();
     for (int i = 0; i < n; i++) {
