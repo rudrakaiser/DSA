@@ -79,3 +79,5 @@ The algorithm works in two phases:
 ## Practice Problem
 
 - ### [Majority Element](https://www.geeksforgeeks.org/problems/majority-element-1587115620/1)
+
+- ### [Majority Element - More Than n/3](https://www.geeksforgeeks.org/problems/majority-vote/1)
